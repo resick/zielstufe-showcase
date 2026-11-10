@@ -16,11 +16,8 @@ Live site: https://zielstufe.com (English and German)
 - Employers (clinics, care homes, agencies) can buy seats for their learners
   and see their progress, with the learner's consent
 
-## Screenshots
-![Start page](start.png)
-![Exam question](question.png)
-![Result](result.png)
-![AI writing feedback](feedback.png)
+Screenshots are inside the repo.
+
 
 Zielstufe is independent and not affiliated with telc, the Goethe-Institut,
 ÖSD or BAMF. The source code is private.
